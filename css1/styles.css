@@ -1,0 +1,16 @@
+body{
+   background-color: antiquewhite;
+   font-family: "Brush Script MT", cursive;
+   font-size: 24px;
+   margin-left: 50px;
+   maring-right: 50px;
+}
+h1{
+   text-align: center;
+}
+img{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+
